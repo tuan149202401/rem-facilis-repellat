@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@tuan149202401/rem-facilis-repellat",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,16 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/tuan149202401/rem-facilis-repellat.git"
   },
   "dependencies": {
+    "@tuan149202401/accusantium-laudantium-nihil-nobis": "^1.0.0",
+    "@tuan149202401/consequuntur-aliquam-velit": "^1.0.0",
+    "@tuan149202401/facere-sequi-omnis": "^1.0.0",
+    "@tuan149202401/nisi-ipsam-sit": "^1.0.0",
+    "@tuan149202401/porro-maiores-nulla": "^1.0.0",
+    "@tuan149202401/porro-nobis-tempore": "^1.0.0",
+    "@tuan149202401/ullam-quibusdam-tempora": "^1.0.0",
+    "@tuan149202401/veritatis-minus-omnis": "^1.0.0"
   }
 }
